@@ -187,6 +187,8 @@ def main():
     else:
         print('Usage: %s [query]' % sys.argv[0])
 
+## end of duckduckgo library ##
+
 
 class DDGPlugin(plugintypes.TelegramPlugin):
     """
@@ -206,7 +208,6 @@ class DDGPlugin(plugintypes.TelegramPlugin):
 
 
 
-## end of duckduckgo library ##
 
     @group_only
     def ddg_search(self, msg, matches):

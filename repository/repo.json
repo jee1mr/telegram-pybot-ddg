@@ -1,0 +1,9 @@
+{
+    "name": "DDG",
+    "description": "DuckDuckGo search for Telegram",
+    "version": "0.1",
+    "default_enable": ["DDG"],
+    "homepage": "https://github.com/jee1mr/telegram-pybot-ddg",
+    "repo": "https://github.com/jee1mr/telegram-pybot-ddg.git",
+    "branch": "master"
+}

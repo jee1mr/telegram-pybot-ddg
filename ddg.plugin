@@ -1,0 +1,9 @@
+[Core]
+Name = DDG
+Module = ddg
+
+[Documentation]
+Author = Jeevan M R
+Version = 0.1
+Website = https://github.com/jee1mr/telegram-pybot-ddg
+Description = DuckDuckGo Search for Telegram
